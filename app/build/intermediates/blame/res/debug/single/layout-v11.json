@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sunzhimin/Desktop/Test1/app/build/intermediates/res/merged/debug/layout-v11/abc_simple_decor.xml",
+        "source": "/Users/sunzhimin/.android/build-cache/20c48077cfaea8aae74eb274df28b69bbbb06917/output/res/layout-v11/abc_simple_decor.xml"
+    },
+    {
+        "merged": "/Users/sunzhimin/Desktop/Test1/app/build/intermediates/res/merged/debug/layout-v11/abc_action_bar_decor.xml",
+        "source": "/Users/sunzhimin/.android/build-cache/20c48077cfaea8aae74eb274df28b69bbbb06917/output/res/layout-v11/abc_action_bar_decor.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/sunzhimin/Desktop/Test1/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/sunzhimin/.android/build-cache/20c48077cfaea8aae74eb274df28b69bbbb06917/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/sunzhimin/Desktop/Test1/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/sunzhimin/.android/build-cache/20c48077cfaea8aae74eb274df28b69bbbb06917/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/sunzhimin/Desktop/Test1/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/sunzhimin/.android/build-cache/20c48077cfaea8aae74eb274df28b69bbbb06917/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/sunzhimin/Desktop/Test1/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/sunzhimin/.android/build-cache/20c48077cfaea8aae74eb274df28b69bbbb06917/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/sunzhimin/Desktop/Test1/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/sunzhimin/.android/build-cache/20c48077cfaea8aae74eb274df28b69bbbb06917/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/sunzhimin/Desktop/Test1/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/sunzhimin/.android/build-cache/20c48077cfaea8aae74eb274df28b69bbbb06917/output/res/anim/abc_fade_in.xml"
+    }
+]
